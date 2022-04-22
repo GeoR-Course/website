@@ -1,57 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/author/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/instructor/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/home/band_one/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/lessons/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/home/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/syllabus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/readings/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/help/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/schedule/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>
