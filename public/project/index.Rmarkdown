@@ -1,0 +1,36 @@
+---
+title: "STA 310 Projects"
+---
+
+Instructions will be posted as the projects are assigned.
+
+```{r echo = F, warning = F, message = F}
+library(bs4cards)
+library(tidyverse)
+```
+
+```{r echo = F, warning = F, message = F}
+projects <- tibble(name = c("Mini Project 01", "Mini Project 02", 
+                             "Final Project"), 
+                   url = c("https://sta310-sp22.github.io/assignments/projects/mini-project-01.html",
+                           "https://sta310-sp22.github.io/assignments/projects/mini-project-02.html",
+                           "https://sta310-sp22.github.io/assignments/projects/final-project.html"),
+                   image = c("https://sta310-sp22.netlify.app/img/sta310_sticker.png",                       "https://sta310-sp22.netlify.app/img/sta310_sticker.png", 
+                             "https://sta310-sp22.netlify.app/img/sta310_sticker.png"), 
+                   blurb = c("Group project focused on generalized linear models",
+                   "Group project focused on multilevel models",
+                   "Individual final project")
+        )
+```
+
+```{r echo = F}
+projects %>%
+  cards(title = name,
+        link = url, 
+        image = image,
+        text = blurb, 
+       layout = "label-only",
+       width = 2)
+```
+
+

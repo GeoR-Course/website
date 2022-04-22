@@ -1,0 +1,43 @@
+# Navigation Bar Links
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+   # pre = "<i class=\"fa fa-info-circle\"></i>"
+    name = "Plano de ensino"
+    url = "/syllabus/"
+    weight = 10
+    
+[[main]]
+    name = "Cronograma"
+ #    pre = "<i class=\"fa fa-calendar\" aria-hidden=\"true\"></i>"
+    url = "/schedule/"
+    weight = 20
+
+[[main]]
+   # pre = "<i class=\"fa fa-info-circle\"></i>"
+    name = "Projetos"
+    url = "/project/"
+    weight = 30
+
+# [[main]]
+#    url = "https://vm-manage.oit.duke.edu/containers"
+#    name = "<i class=\"fab fa-r-project fa-lg\"></i>"
+#    weight = 70
+
+    
+[[main]]
+    url = "https://github.com/mauriciovancine/course-geospatial-data-r"
+    name  = "<i class='fab fa-github fa-lg'></i>"
+    weight = 80
+    
+ [[main]]
+    url = "https://github.com/mauriciovancine/course-geospatial-data-r/discussions"
+    name = "<i class=\"fas fa-comments fa-lg\"></i>"
+    weight = 90
+
+    
+
+
+
+
+

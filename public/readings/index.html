@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!DOCTYPE html>
+<html lang="pt-br">
+
+
+
+<link rel="stylesheet" href="/css/fonts.css">
+<link rel="stylesheet" href="/css/main-site.css">
+<link rel="stylesheet" href="/css/fa5-all.css">
+<style type="text/css">
+    body {
+	background-color: #ffffff;
+	color: #404040
+}
+
+/* Links */
+
+a {
+  color: #2369bd;
+}
+
+a:hover {
+  color: #2369bd;
+}
+
+/* Landing page content bands */
+
+#homeContent .band.first {
+  background-color: #ffffff
+}
+
+#homeContent .band.second {
+  background-color: #fcfcfc
+}
+
+#homeContent .band.third {
+  background-color: #ffffff
+}
+
+/* Top navigation bar menu */
+
+#rStudioHeader {
+  background-color: #23373b;
+  color: #ffffff;
+}
+
+#rStudioHeader .productName {
+  color: #ffffff
+}
+
+#rStudioHeader .productName:hover {
+  color: #2369bd
+}
+
+#rStudioHeader #menu .menuItem.a {
+  background-color: #75aadb;
+  color: #ffffff;
+}
+
+#rStudioHeader #menu .menuItem:hover {
+  background-color: #23373b;
+  color: #2369bd;
+}
+
+#rStudioHeader #menu .menuItem.current {
+  background-color: #23373b;
+  color: #2369bd;
+  text-decoration: none;
+}
+
+/* Footer */
+
+#rStudioFooter.band {
+  background-color: #23373b;
+}
+
+#rStudioFooter .bandContent #copyright {
+  color: #ffffff;
+}
+
+/* Tables */
+
+table tbody tr:nth-child(even){
+  background-color: #fcfcfc;
+}
+
+table tbody tr:nth-child(odd){
+  background-color: #1a162d10;
+}
+
+.latest {
+  border-top: .5em solid <no value>;
+}
+</style>
+
+  <link rel="stylesheet" href="/css/sta310.css">
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+
+<meta name="og:image" content="/images/" >
+
+  <meta property="twitter:card" content="summary_large_image">
+
+<meta name="twitter:image" content="/images/" ><meta name="generator" content="Hugo 0.80.0" />
+
+<meta property="og:type" content="website"><title>GeoR - Readings</title>
+    <meta property="og:title" content="GeoR - Readings">
+    
+    
+    
+    
+    <meta property="description" content="Website para a disciplina Dados Geoespaciais no R - Unesp (Rio Claro)">
+    <meta property="og:description" content="Website para a disciplina Dados Geoespaciais no R - Unesp (Rio Claro)">
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png" />
+<link rel="manifest" href="/images/favicons/site.webmanifest" />
+<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" />
+<link rel="shortcut icon" href="/images/favicons/favicon.ico" />
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" href="/images/favicons/browserconfig.xml" >
+
+
+
+<script type="text/javascript" src="/js/jquery-3.5.1.min.js"></script>
+<script type="text/javascript" src="/js/site.js"></script>
+
+
+  <script type="text/javascript" src="/js/sta310.js"></script>
+
+
+<link rel="icon" href="/images/favicon.ico" />
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
+
+
+
+  <body>
+    <div id="appTidyverseSite" class="shrinkHeader alwaysShrinkHeader">
+      <div id="main">
+        
+        <div id="rStudioHeader">
+          <div class="band">
+            <div class="innards bandContent">
+              <div>
+                <a class="productName" href="/">GeoR</a>
+                
+              </div>
+              <div id="menu">
+  <div id="menuToggler"></div>
+  <div id="menuItems" class="">
+    <script defer src="/static/fontawesome/fontawesome-all.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    
+    
+      
+      
+      
+    <a class="menuItem " href="/syllabus/">Plano de ensino</a>
+    
+      
+      
+      
+    <a class="menuItem " href="/schedule/">Cronograma</a>
+    
+      
+      
+      
+    <a class="menuItem " href="/project/">Projetos</a>
+    
+      
+      
+      
+    <a class="menuItem " href="https://github.com/mauriciovancine/course-geospatial-data-r"><i class='fab fa-github fa-lg'></i></a>
+    
+      
+      
+      
+    <a class="menuItem " href="https://github.com/mauriciovancine/course-geospatial-data-r/discussions"><i class="fas fa-comments fa-lg"></i></a>
+    
+  </div>
+</div>
+
+
+
+            </div>
+          </div>
+        </div>
+</head>
+<body>
+
+
+ 
+
+<div class="band padForHeader">
+  <div class="bandContent">
+    <div class="full splitColumns withMobileMargins">
+      <div class="column75">
+
+      <h1 class="article-title">Readings</h1>
+
+      <div class="article-content">
+      <p>This page contains the reading assignments for STA 310: Generalized Linear Models. Most reading assignments will come from the textbook <a href="https://bookdown.org/roback/bookdown-BeyondMLR/">Beyond Multiple Linear Regression</a> by Paul Roback and Julie Legler.</p>
+<h2 id="week-01-jan-03---07">Week 01: Jan 03 - 07</h2>
+<ul>
+<li>No readings</li>
+</ul>
+<h2 id="week-02-jan-10---14">Week 02: Jan 10 - 14</h2>
+<ul>
+<li>Beyond Multiple Linear Regression (BMLR): <a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Chapter 1 - Review of Multiple Linear Regression</a></li>
+</ul>
+<h2 id="week-03-jan-17---21">Week 03: Jan 17 - 21</h2>
+<ul>
+<li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-beyondmost.html">BMLR: Chapter 2 - Beyond Least Squares: Using Likelihoods</a></li>
+</ul>
+<h2 id="week-04-jan-24---28">Week 04: Jan 24 - 28</h2>
+<ul>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-beyondmost.html#case-study-analysis-of-the-nlsy-data">BMLR:Sections 2.6 -2.10 </a></p>
+</li>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-distthry.html">BMLR: Chapter 3 - Distribution Theory</a> (for reference)</p>
+</li>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html">BMLR: Chapter 4 - Poisson Regression</a></p>
+</li>
+</ul>
+<h2 id="week-05-jan-31---feb-04">Week 05: Jan 31 - Feb 04</h2>
+<ul>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html">BMLR: Chapter 4 - Poisson Regression</a></p>
+<ul>
+<li>Sections 4.4 - 4.5, 4.9</li>
+</ul>
+</li>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html">BMLR: Chapter 4 - Poisson Regression</a></p>
+<ul>
+<li>Sections 4.6, 4.10</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-06-feb-07---11">Week 06: Feb 07 - 11</h2>
+<ul>
+<li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html">BMLR: Chapter 4 - Poisson Regression</a>
+<ul>
+<li>Sections 4.4.5, 4.10</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-07-feb-14---18">Week 07: Feb 14 - 18</h2>
+<ul>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-glms.html">BMLR: Chapter 5 - Generalized linear models: A unifying framework</a></p>
+</li>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html">BMLR: Chapter 6 - Logistic Regression</a></p>
+</li>
+</ul>
+<h2 id="week-08-feb-21---25">Week 08: Feb 21 - 25</h2>
+<ul>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html">BMLR: Chapter 6 - Logistic Regression</a></p>
+</li>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-corrdata.html">BMLR Chapter 7 - Correlated Data</a></p>
+</li>
+</ul>
+<h2 id="week-09-feb-28---mar-04">Week 09: Feb 28 - Mar 04</h2>
+<ul>
+<li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-multilevelintro.html#twolevelmodelingunified">BMLR Chapter 8 - Introduction to Multilevel Models</a></li>
+</ul>
+<h2 id="week-10-mar-07---11">Week 10: Mar 07 - 11</h2>
+<p>Spring Break</p>
+<h2 id="week-11-mar-14---18">Week 11: Mar 14 - 18</h2>
+<ul>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-multilevelintro.html#twolevelmodelingunified">BMLR Chapter 8 - Introduction to Multilevel Models</a></p>
+<ul>
+<li>Sections 8.5 - 8.12</li>
+</ul>
+</li>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-lon.html">BMLR: Chapter 9 - Two-level Longitudinal data</a></p>
+</li>
+</ul>
+<h2 id="week-12-mar-21---25">Week 12: Mar 21 - 25</h2>
+<ul>
+<li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-lon.html">BMLR: Chapter 9 - Two-level Longitudinal data</a></li>
+</ul>
+<h2 id="week-13-mar-28---apr-01">Week 13: Mar 28 - Apr 01</h2>
+<ul>
+<li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-3level.html">BMLR: Chapter 10 - Multilevel data with more than two levels</a></li>
+</ul>
+<h2 id="week-14-apr-04---08">Week 14: Apr 04 - 08</h2>
+<ul>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-lon.html#errorcovariance">BMLR: Section 9.7 - Covariance structure among observations</a></p>
+</li>
+<li>
+<p><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-3level.html#error-3level">BMLR: Section 10.9 - Covariance structure</a></p>
+</li>
+<li>
+<p>Jones, K. (1991). <a href="https://sakai.duke.edu/access/content/group/ec265469-bdb3-47a7-beb0-317956b6f86f/jones-1991.pdf">Specifying and estimating multi-level models for geographical research</a>. Transactions of the institute of British geographers, 148-159.</p>
+</li>
+</ul>
+<h2 id="week-15-apr-11---15">Week 15: Apr 11 - 15</h2>
+<ul>
+<li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-GLMM.html">BMLR: Chapter 11: Multilevel Generalized Linear Models</a></li>
+</ul>
+
+      </div>
+
+      </div>
+
+      <div class="column25">
+        
+        <div class="section hideOnMobile">
+          <div class="sectionTitle">Contents</div>
+          <nav id="TableOfContents">
+  <ul>
+    <li><a href="#week-01-jan-03---07">Week 01: Jan 03 - 07</a></li>
+    <li><a href="#week-02-jan-10---14">Week 02: Jan 10 - 14</a></li>
+    <li><a href="#week-03-jan-17---21">Week 03: Jan 17 - 21</a></li>
+    <li><a href="#week-04-jan-24---28">Week 04: Jan 24 - 28</a></li>
+    <li><a href="#week-05-jan-31---feb-04">Week 05: Jan 31 - Feb 04</a></li>
+    <li><a href="#week-06-feb-07---11">Week 06: Feb 07 - 11</a></li>
+    <li><a href="#week-07-feb-14---18">Week 07: Feb 14 - 18</a></li>
+    <li><a href="#week-08-feb-21---25">Week 08: Feb 21 - 25</a></li>
+    <li><a href="#week-09-feb-28---mar-04">Week 09: Feb 28 - Mar 04</a></li>
+    <li><a href="#week-10-mar-07---11">Week 10: Mar 07 - 11</a></li>
+    <li><a href="#week-11-mar-14---18">Week 11: Mar 14 - 18</a></li>
+    <li><a href="#week-12-mar-21---25">Week 12: Mar 21 - 25</a></li>
+    <li><a href="#week-13-mar-28---apr-01">Week 13: Mar 28 - Apr 01</a></li>
+    <li><a href="#week-14-apr-04---08">Week 14: Apr 04 - 08</a></li>
+    <li><a href="#week-15-apr-11---15">Week 15: Apr 11 - 15</a></li>
+  </ul>
+</nav>
+        </div>
+        
+        
+      </div>
+
+    </div>
+  </div>  
+</div> 
+
+
+
+</body>
+</html>
