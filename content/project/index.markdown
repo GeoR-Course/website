@@ -1,5 +1,5 @@
 ---
-title: "STA 310 Projects"
+title: "Projetos"
 ---
 
 Instructions will be posted as the projects are assigned.

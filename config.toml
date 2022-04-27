@@ -12,7 +12,7 @@ googleAnalytics = ""
 
 relativeurls = false
 languageCode = "pt-br"
-description = "Website para a disciplina Dados Geoespaciais no R - Unesp (Rio Claro)"
+description = "Website da disciplina Dados Geoespaciais no R - Unesp (Rio Claro)"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 # below is critical for non-authors to show up in article listing

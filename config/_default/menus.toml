@@ -2,19 +2,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-   # pre = "<i class=\"fa fa-info-circle\"></i>"
+    #pre = "<i class=\"fa fa-memo\"></i>"
     name = "Plano de ensino"
     url = "/syllabus/"
     weight = 10
     
 [[main]]
+    #pre = "<i class=\"fa fa-calendar\" aria-hidden=\"true\"></i>"
     name = "Cronograma"
- #    pre = "<i class=\"fa fa-calendar\" aria-hidden=\"true\"></i>"
     url = "/schedule/"
     weight = 20
 
 [[main]]
-   # pre = "<i class=\"fa fa-info-circle\"></i>"
+    #pre = "<i class=\"fa fa-info-circle\"></i>"
     name = "Projetos"
     url = "/project/"
     weight = 30
@@ -26,12 +26,12 @@
 
     
 [[main]]
-    url = "https://github.com/mauriciovancine/course-geospatial-data-r"
+    url = "https://github.com/GeoR-Course"
     name  = "<i class='fab fa-github fa-lg'></i>"
     weight = 80
     
  [[main]]
-    url = "https://github.com/mauriciovancine/course-geospatial-data-r/discussions"
+    url = "https://github.com/orgs/GeoR-Course/discussions"
     name = "<i class=\"fas fa-comments fa-lg\"></i>"
     weight = 90
 

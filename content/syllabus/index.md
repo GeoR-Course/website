@@ -2,16 +2,16 @@
 title: Plano de ensino
 ---
 
-<font color="#2369bd"><i class="fas fa-file-pdf"></i></font> [**Click here**](sta310-sp22-syllabus.pdf) **to download a PDF copy of the syllabus.**
+<font color="#2369bd"><i class="fas fa-file-pdf"></i></font> [**Clique aqui**](plano_ensino_geor.pdf) **para acessar o PDF do plano de ensino.**
 
-## Teaching team & office hours
+## Equipe de ensino
 
-**Instructor**
+**Instrutores**
 
-  Name    |   Contact    |  Office hours  |  <span></span>
-|-------------------|------------------|------------------|------------------ 
-|[Prof. Maria Tackett](http://stat.duke.edu/~mt324/) | <a href="mailto:maria.tackett@duke.edu" title="email"><i class="fa fa-envelope"></i></a>  | Thu & Fri 2 - 3pm| Zoom (link in Sakai)
-| |  | or [by appointment](https://calendly.com/matackett/meeting) | 
+  Nome    |   Contato    |  <span></span>
+|-------------------|------------------|------------------ 
+|[Prof. Maurício Humberto Vancine](https://mauriciovancine.github.io/) | <a href="mailto:mauricio.vancine@gmail.com" title="email"><i class="fa fa-envelope"></i></a>  |
+|[Prof. Milton Cezar Ribeiro (responsável)](https://leec.eco.br/) | <a href="mailto:miltinho.astronauta@gmail.com" title="email"><i class="fa fa-envelope"></i></a>  |
 
 <br> 
 
@@ -23,33 +23,35 @@ Name    | Contact    | Office hours  |  <span></span>
 |Jose Pliego San Martin | <a href="mailto:jose.pliego.san.martin@duke.edu" title="email"><i class="fa fa-envelope"></i></a> | Mon 12 - 1pm | Zoom (Link in Sakai)|
 | |  | Tue 12 - 1pm | Zoom (link in Sakai)|
 
-## Course info 
+## Informação da disciplina 
 
- <span></span> | Day  |   Time   |  Location  | 
+ <span></span> | Dias  |   Horários   |  Local  | 
 |-------------------|------------------|------------------|------------------|
-Lectures | Mon & Wed | 3:30 - 4:45pm | Perkins 071 (Link #5) |
-Labs |Thu | 3:30 - 4:45pm | Perkins 071 (Link #5)|
+Aulas | Mon & Wed | 3:30 - 4:45pm | Perkins 071 (Link #5) |
+Labs | Thu | 3:30 - 4:45pm | Perkins 071 (Link #5)|
 
 
-## Textbooks
+## Livros textos
 
-All books are freely available online. Print copies are also available for purchase.
+Todos os livros estão disponíveis gratuitamente online
 
- <span></span>     | <span></span> | <span></span> 
+ Títulos     | Autores | Editoras e ano
 -----------|---------------------------------|----------------------------------
-[Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/) | Roback, Legler | CRC Press, 1st edition, 2020 |
-[R for Data Science](http://r4ds.had.co.nz/) | Grolemund, Wickham | O'Reilly, 1st edition, 2016 |
+[Análises Ecológicas no R](https://paternogbc.github.io/livro_aer/) | Da Silva, Gonçalves-Souza, Paterno, Provete, Vancine | NUUPEA, 1ª edição, 2022 |
+[Análise espacial com R](https://bit.ly/2KpSI7C) | Mas, Horta, Vasconcelos, Cambui | UEFS Editora, 1ª edição, 2019 |
+[R for Data Science](http://r4ds.had.co.nz/) | Grolemund, Wickham | O'Reilly, 1ª edição, 2016 |
+[Geocomputation with R](https://geocompr.robinlovelace.net/) | Lovelace, Nowosad, Muenchow | CRC Press, 1ª edição, 2020 |
 
-## Course Learning Objectives
+## Objetivos do Curso
 
-By the end of the semester, you will be able to ... 
+Até o final da disciplina, você deve ser capaz de...
 
-- describe generalized linear models (GLMs) as a unified framework.
-- explain how specific models fit into the GLM framework, including extensions for correlated data.
-- identify the appropriate model given the data and analysis objective.
-- analyze real-world data by fitting and interpreting GLMs.
-- use R Markdown to write reproducible reports and GitHub for version control and collaboration.
-- effectively communicate results from statistical analyses to a general audience.
+- ter noções gerais do funcionamento prático do controle de versão através do git e GitHub
+- entender os principais elementos da linguagem R e o uso da IDE RStudio
+- compreender o funcionamento do fluxo de trabalho do tidyverse (importar, transformar, visualizar, modelar, comunicar)
+- adquirir noções gerais dos principais conceitos relacionados ao geoprocessamento
+- usar a linguagem R para manipulação e operações em dados geoespaciais
+- criar mapas para visualização de dados geoespaciais
 
 ## Course community
 

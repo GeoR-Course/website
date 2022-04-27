@@ -1,9 +1,9 @@
 ---
-title: "Schedule"
+title: "GeoR - Cronograma"
 slug: schedule
 ---
 
-**Nota**: A programação pode sofrer alterações ao da disciplina.
+**Nota**: A programação pode sofrer alterações ao decorrer da disciplina.
 
 <!--
 - **Prepare** (<i class="fas fa-book-reader fa-lg"></i>): Videos, readings, and slides to prepare for lecture and in-class activities. 

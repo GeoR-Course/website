@@ -1,5 +1,5 @@
 # Description for social sharing and search engines.
-description = "Website para a disciplina Dados Geoespaciais no R - Unesp (Rio Claro)"
+description = "Website da disciplina Dados Geoespaciais no R - Unesp (Rio Claro)"
 
 # Default image for social sharing and search engines. Place image in `static/images/` folder and specify image name here.
 sharing_image = ""
@@ -7,8 +7,8 @@ twitter_image = ""
 
 # Link custom CSS and JS assets
 #   (relative to /static/css and /static/js respectively)
-custom_css = ["sta310.css"]
-custom_js = ["sta310.js"]
+custom_css = ["geor.css"]
+custom_js = ["geor.js"]
 
 # Define base hex url for index page (where the stickers link out to)
 hex_base_url = ""
@@ -28,9 +28,9 @@ MathJaxCDN = "//cdn.bootcss.com"
 MathJaxVersion = "2.7.1"
 
 [footer]
-    github_url = "https://github.com/sta310-sp22/website"
+    github_url = "https://github.com/GeoR-Course/website"
     twitter_url = ""
-    support = "This website was derived from [tidymodels.org](https://tidymodels.org) with inspiration from [datavizm20](https://datavizm20.classes.andrewheiss.com/) and [introds.org](https://introds.org/)."
+    support = "Este site foi derivado de [STA 310](https://sta310-sp22.netlify.app/)."
 
 # leave blank in quotes for the default = true
 # to turn off, set = false (no quotes)

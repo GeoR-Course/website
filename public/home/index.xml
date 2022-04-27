@@ -15,7 +15,7 @@
       <pubDate>12 Mar 17 10:00 +0000</pubDate>
       
       <guid>/home/band_one/</guid>
-      <description>.pull-left{ float: left; width: 30%; } .pull-right{ float: right; width: 65%; }   GeoR: Dados Geoespaciais no R A disciplina oferecerá os principais conceitos teóricos e práticos quanto ao funcionamento da linguagem R e seu uso para manipulação e visualização de dados tabulares e geoespaciais, com enfoque em Ecologia Geral. Serão abordados os seguintes temas: (1) controle de versão, git e GitHub, (2) funcionamento da linguagem R, (3) estrutura e manipulação de dados no R, (4) introdução ao tidyverse, (5) visualização de dados no R, (6) estrutura e fonte de dados geoespaciais, (7) estrutura e manipulação de dados vetoriais no R, (8) estrutura e manipulação de dados matriciais no R e (9) visualização de dados geoespaciais no R.</description>
+      <description>.pull-left{ float: left; width: 30%; } .pull-right{ float: right; width: 65%; }   GeoR: Dados Geoespaciais no R Na GeoR, os alunes serão apresentados aos principais conceitos teóricos e práticos do funcionamento da linguagem R e seu uso para manipulação e visualização de dados tabulares e geoespaciais. Serão abordados temas como controle de versão, git e GitHub; funcionamento da linguagem R; estrutura e manipulação de dados no R; visão geral do tidyverse; visualização de dados tabulares; estrutura e fonte de dados geoespaciais; e visualização de dados geoespaciais.</description>
       <content>&lt;style&gt;
 .pull-left{
 float: left;
@@ -32,7 +32,7 @@ width: 65%;
 &lt;/div&gt;
 &lt;div class =&#34;pull-right&#34;&gt;
 &lt;h2 style = &#34;color: white&#34;&gt;GeoR: Dados Geoespaciais no R&lt;/h2&gt;
-&lt;p&gt;A disciplina oferecerá os principais conceitos teóricos e práticos quanto ao funcionamento da linguagem R e seu uso para manipulação e visualização de dados tabulares e geoespaciais, com enfoque em Ecologia Geral. Serão abordados os seguintes temas: (1) controle de versão, git e GitHub, (2) funcionamento da linguagem R, (3) estrutura e manipulação de dados no R, (4) introdução ao tidyverse, (5) visualização de dados no R, (6) estrutura e fonte de dados geoespaciais, (7) estrutura e manipulação de dados vetoriais no R, (8) estrutura e manipulação de dados matriciais no R e (9) visualização de dados geoespaciais no R.&lt;/p&gt;
+&lt;p&gt;Na GeoR, os alunes serão apresentados aos principais conceitos teóricos e práticos do funcionamento da linguagem R e seu uso para manipulação e visualização de dados tabulares e geoespaciais. Serão abordados temas como controle de versão, git e GitHub; funcionamento da linguagem R; estrutura e manipulação de dados no R; visão geral do tidyverse; visualização de dados tabulares; estrutura e fonte de dados geoespaciais; e visualização de dados geoespaciais.&lt;/p&gt;
 &lt;/div&gt;</content>
     </item>
     
@@ -42,33 +42,30 @@ width: 65%;
       <pubDate>12 Mar 17 10:00 +0000</pubDate>
       
       <guid>/syllabus/</guid>
-      <description>Click here to download a PDF copy of the syllabus.
-Teaching team &amp;amp; office hours Instructor
-   Name Contact Office hours      Prof. Maria Tackett  Thu &amp;amp; Fri 2 - 3pm Zoom (link in Sakai)     or by appointment     Teaching Assistants
-   Name Contact Office hours      Raphaël Morsomme  Tue 2 - 4pm Zoom (link in Sakai)   Jose Pliego San Martin  Mon 12 - 1pm Zoom (Link in Sakai)     Tue 12 - 1pm Zoom (link in Sakai)    Course info     Day Time Location     Lectures Mon &amp;amp; Wed 3:30 - 4:45pm Perkins 071 (Link #5)   Labs Thu 3:30 - 4:45pm Perkins 071 (Link #5)    Textbooks All books are freely available online.</description>
-      <content>&lt;p&gt;&lt;font color=&#34;#2369bd&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;&lt;/font&gt; &lt;a href=&#34;sta310-sp22-syllabus.pdf&#34;&gt;&lt;strong&gt;Click here&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;to download a PDF copy of the syllabus.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;teaching-team--office-hours&#34;&gt;Teaching team &amp;amp; office hours&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Instructor&lt;/strong&gt;&lt;/p&gt;
+      <description>Clique aqui para acessar o PDF do plano de ensino.
+Equipe de ensino Instrutores
+   Nome Contato      Prof. Maurício Humberto Vancine     Prof. Milton Cezar Ribeiro (responsável)      Teaching Assistants
+   Name Contact Office hours      Raphaël Morsomme  Tue 2 - 4pm Zoom (link in Sakai)   Jose Pliego San Martin  Mon 12 - 1pm Zoom (Link in Sakai)     Tue 12 - 1pm Zoom (link in Sakai)    Informação da disciplina     Dias Horários Local     Aulas Mon &amp;amp; Wed 3:30 - 4:45pm Perkins 071 (Link #5)   Labs Thu 3:30 - 4:45pm Perkins 071 (Link #5)    Livros textos Todos os livros estão disponíveis gratuitamente online</description>
+      <content>&lt;p&gt;&lt;font color=&#34;#2369bd&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;&lt;/font&gt; &lt;a href=&#34;plano_ensino_geor.pdf&#34;&gt;&lt;strong&gt;Clique aqui&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;para acessar o PDF do plano de ensino.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;equipe-de-ensino&#34;&gt;Equipe de ensino&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instrutores&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;th&gt;Contact&lt;/th&gt;
-&lt;th&gt;Office hours&lt;/th&gt;
+&lt;th&gt;Nome&lt;/th&gt;
+&lt;th&gt;Contato&lt;/th&gt;
 &lt;th&gt;&lt;span&gt;&lt;/span&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;http://stat.duke.edu/~mt324/&#34;&gt;Prof. Maria Tackett&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;mailto:maria.tackett@duke.edu&#34; title=&#34;email&#34;&gt;&lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Thu &amp;amp; Fri 2 - 3pm&lt;/td&gt;
-&lt;td&gt;Zoom (link in Sakai)&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://mauriciovancine.github.io/&#34;&gt;Prof. Maurício Humberto Vancine&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:mauricio.vancine@gmail.com&#34; title=&#34;email&#34;&gt;&lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;or &lt;a href=&#34;https://calendly.com/matackett/meeting&#34;&gt;by appointment&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://leec.eco.br/&#34;&gt;Prof. Milton Cezar Ribeiro (responsável)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:miltinho.astronauta@gmail.com&#34; title=&#34;email&#34;&gt;&lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -105,19 +102,19 @@ Teaching team &amp;amp; office hours Instructor
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;course-info&#34;&gt;Course info&lt;/h2&gt;
+&lt;h2 id=&#34;informação-da-disciplina&#34;&gt;Informação da disciplina&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;span&gt;&lt;/span&gt;&lt;/th&gt;
-&lt;th&gt;Day&lt;/th&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Dias&lt;/th&gt;
+&lt;th&gt;Horários&lt;/th&gt;
+&lt;th&gt;Local&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Lectures&lt;/td&gt;
+&lt;td&gt;Aulas&lt;/td&gt;
 &lt;td&gt;Mon &amp;amp; Wed&lt;/td&gt;
 &lt;td&gt;3:30 - 4:45pm&lt;/td&gt;
 &lt;td&gt;Perkins 071 (Link #5)&lt;/td&gt;
@@ -130,38 +127,48 @@ Teaching team &amp;amp; office hours Instructor
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;textbooks&#34;&gt;Textbooks&lt;/h2&gt;
-&lt;p&gt;All books are freely available online. Print copies are also available for purchase.&lt;/p&gt;
+&lt;h2 id=&#34;livros-textos&#34;&gt;Livros textos&lt;/h2&gt;
+&lt;p&gt;Todos os livros estão disponíveis gratuitamente online&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;span&gt;&lt;/span&gt;&lt;/th&gt;
-&lt;th&gt;&lt;span&gt;&lt;/span&gt;&lt;/th&gt;
-&lt;th&gt;&lt;span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;Títulos&lt;/th&gt;
+&lt;th&gt;Autores&lt;/th&gt;
+&lt;th&gt;Editoras e ano&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://bookdown.org/roback/bookdown-BeyondMLR/&#34;&gt;Beyond Multiple Linear Regression&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Roback, Legler&lt;/td&gt;
-&lt;td&gt;CRC Press, 1st edition, 2020&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://paternogbc.github.io/livro_aer/&#34;&gt;Análises Ecológicas no R&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Da Silva, Gonçalves-Souza, Paterno, Provete, Vancine&lt;/td&gt;
+&lt;td&gt;NUUPEA, 1ª edição, 2022&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://bit.ly/2KpSI7C&#34;&gt;Análise espacial com R&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Mas, Horta, Vasconcelos, Cambui&lt;/td&gt;
+&lt;td&gt;UEFS Editora, 1ª edição, 2019&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;http://r4ds.had.co.nz/&#34;&gt;R for Data Science&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Grolemund, Wickham&lt;/td&gt;
-&lt;td&gt;O&amp;rsquo;Reilly, 1st edition, 2016&lt;/td&gt;
+&lt;td&gt;O&amp;rsquo;Reilly, 1ª edição, 2016&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34;&gt;Geocomputation with R&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Lovelace, Nowosad, Muenchow&lt;/td&gt;
+&lt;td&gt;CRC Press, 1ª edição, 2020&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;course-learning-objectives&#34;&gt;Course Learning Objectives&lt;/h2&gt;
-&lt;p&gt;By the end of the semester, you will be able to &amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;objetivos-do-curso&#34;&gt;Objetivos do Curso&lt;/h2&gt;
+&lt;p&gt;Até o final da disciplina, você deve ser capaz de&amp;hellip;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;describe generalized linear models (GLMs) as a unified framework.&lt;/li&gt;
-&lt;li&gt;explain how specific models fit into the GLM framework, including extensions for correlated data.&lt;/li&gt;
-&lt;li&gt;identify the appropriate model given the data and analysis objective.&lt;/li&gt;
-&lt;li&gt;analyze real-world data by fitting and interpreting GLMs.&lt;/li&gt;
-&lt;li&gt;use R Markdown to write reproducible reports and GitHub for version control and collaboration.&lt;/li&gt;
-&lt;li&gt;effectively communicate results from statistical analyses to a general audience.&lt;/li&gt;
+&lt;li&gt;ter noções gerais do funcionamento prático do controle de versão através do git e GitHub&lt;/li&gt;
+&lt;li&gt;entender os principais elementos da linguagem R e o uso da IDE RStudio&lt;/li&gt;
+&lt;li&gt;compreender o funcionamento do fluxo de trabalho do tidyverse (importar, transformar, visualizar, modelar, comunicar)&lt;/li&gt;
+&lt;li&gt;adquirir noções gerais dos principais conceitos relacionados ao geoprocessamento&lt;/li&gt;
+&lt;li&gt;usar a linguagem R para manipulação e operações em dados geoespaciais&lt;/li&gt;
+&lt;li&gt;criar mapas para visualização de dados geoespaciais&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;course-community&#34;&gt;Course community&lt;/h2&gt;
 &lt;h3 id=&#34;duke-community-standard&#34;&gt;Duke Community Standard&lt;/h3&gt;
@@ -379,6 +386,49 @@ Teaching team &amp;amp; office hours Instructor
     </item>
     
     <item>
+      <title>Projetos</title>
+      <link>/project/</link>
+      <pubDate>12 Mar 17 10:00 +0000</pubDate>
+      
+      <guid>/project/</guid>
+      <description>Instructions will be posted as the projects are assigned.
+ Mini Project 01  Group project focused on generalized linear models
+  Mini Project 02  Group project focused on multilevel models
+  Final Project  Individual final project
+    </description>
+      <content>&lt;p&gt;Instructions will be posted as the projects are assigned.&lt;/p&gt;
+&lt;div&gt;
+&lt;div class=&#34;row p-0 row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4&#34; style=&#34;margin-left: -.2rem; margin-right: -.2rem; margin-top: 1rem; margin-bottom: 1rem; &#34;&gt;
+&lt;div class=&#34;card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah &#34; style=&#34;padding: .2rem ; border-width: 0; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
+&lt;div class=&#34;card-body justify-content-end m-0 p-0&#34; style=&#34;visibility: visible; background-color: inherits; border-style:solid; border-color:inherits; border-width:1px; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
+&lt;a href=&#34;https://sta310-sp22.github.io/assignments/projects/mini-project-01.html&#34;&gt;
+&lt;h5 class=&#34;card-title my-auto px-3 pt-3 pb-1&#34;&gt;Mini Project 01&lt;/h5&gt;
+&lt;/a&gt;
+&lt;p class=&#34;card-text my-auto px-3 pb-3 pt-1&#34;&gt;Group project focused on generalized linear models&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah &#34; style=&#34;padding: .2rem ; border-width: 0; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
+&lt;div class=&#34;card-body justify-content-end m-0 p-0&#34; style=&#34;visibility: visible; background-color: inherits; border-style:solid; border-color:inherits; border-width:1px; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
+&lt;a href=&#34;https://sta310-sp22.github.io/assignments/projects/mini-project-02.html&#34;&gt;
+&lt;h5 class=&#34;card-title my-auto px-3 pt-3 pb-1&#34;&gt;Mini Project 02&lt;/h5&gt;
+&lt;/a&gt;
+&lt;p class=&#34;card-text my-auto px-3 pb-3 pt-1&#34;&gt;Group project focused on multilevel models&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah &#34; style=&#34;padding: .2rem ; border-width: 0; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
+&lt;div class=&#34;card-body justify-content-end m-0 p-0&#34; style=&#34;visibility: visible; background-color: inherits; border-style:solid; border-color:inherits; border-width:1px; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
+&lt;a href=&#34;https://sta310-sp22.github.io/assignments/projects/final-project.html&#34;&gt;
+&lt;h5 class=&#34;card-title my-auto px-3 pt-3 pb-1&#34;&gt;Final Project&lt;/h5&gt;
+&lt;/a&gt;
+&lt;p class=&#34;card-text my-auto px-3 pb-3 pt-1&#34;&gt;Individual final project&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Readings</title>
       <link>/readings/</link>
       <pubDate>12 Mar 17 10:00 +0000</pubDate>
@@ -547,49 +597,6 @@ Go to &lt;a href=&#34;http://studentaffairs.duke.edu/dukereach&#34;&gt;studentaf
 &lt;p&gt;&lt;strong&gt;Two-Click Support&lt;/strong&gt;: Duke Student Government and DukeReach partnership that connects students to help in just two clicks. &lt;a href=&#34;https://bit.ly/TwoClickSupport&#34;&gt;bit.ly/TwoClickSupport&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>STA 310 Projects</title>
-      <link>/project/</link>
-      <pubDate>12 Mar 17 10:00 +0000</pubDate>
-      
-      <guid>/project/</guid>
-      <description>Instructions will be posted as the projects are assigned.
- Mini Project 01  Group project focused on generalized linear models
-  Mini Project 02  Group project focused on multilevel models
-  Final Project  Individual final project
-    </description>
-      <content>&lt;p&gt;Instructions will be posted as the projects are assigned.&lt;/p&gt;
-&lt;div&gt;
-&lt;div class=&#34;row p-0 row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4&#34; style=&#34;margin-left: -.2rem; margin-right: -.2rem; margin-top: 1rem; margin-bottom: 1rem; &#34;&gt;
-&lt;div class=&#34;card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah &#34; style=&#34;padding: .2rem ; border-width: 0; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
-&lt;div class=&#34;card-body justify-content-end m-0 p-0&#34; style=&#34;visibility: visible; background-color: inherits; border-style:solid; border-color:inherits; border-width:1px; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
-&lt;a href=&#34;https://sta310-sp22.github.io/assignments/projects/mini-project-01.html&#34;&gt;
-&lt;h5 class=&#34;card-title my-auto px-3 pt-3 pb-1&#34;&gt;Mini Project 01&lt;/h5&gt;
-&lt;/a&gt;
-&lt;p class=&#34;card-text my-auto px-3 pb-3 pt-1&#34;&gt;Group project focused on generalized linear models&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah &#34; style=&#34;padding: .2rem ; border-width: 0; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
-&lt;div class=&#34;card-body justify-content-end m-0 p-0&#34; style=&#34;visibility: visible; background-color: inherits; border-style:solid; border-color:inherits; border-width:1px; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
-&lt;a href=&#34;https://sta310-sp22.github.io/assignments/projects/mini-project-02.html&#34;&gt;
-&lt;h5 class=&#34;card-title my-auto px-3 pt-3 pb-1&#34;&gt;Mini Project 02&lt;/h5&gt;
-&lt;/a&gt;
-&lt;p class=&#34;card-text my-auto px-3 pb-3 pt-1&#34;&gt;Group project focused on multilevel models&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah &#34; style=&#34;padding: .2rem ; border-width: 0; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
-&lt;div class=&#34;card-body justify-content-end m-0 p-0&#34; style=&#34;visibility: visible; background-color: inherits; border-style:solid; border-color:inherits; border-width:1px; border-radius: .6rem .6rem .6rem .6rem ;&#34;&gt;
-&lt;a href=&#34;https://sta310-sp22.github.io/assignments/projects/final-project.html&#34;&gt;
-&lt;h5 class=&#34;card-title my-auto px-3 pt-3 pb-1&#34;&gt;Final Project&lt;/h5&gt;
-&lt;/a&gt;
-&lt;p class=&#34;card-text my-auto px-3 pb-3 pt-1&#34;&gt;Individual final project&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 </content>
     </item>
     
